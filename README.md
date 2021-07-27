@@ -7,7 +7,7 @@
 - Eu tenho interesse em trabalho em TI.
 - Eu falo Português.
 - Eu desenvolvo em Java, PHP e Cobol. TSO, JCL.
-- Meu email é ariosvaldo516@gmail.com
+- Meu E-mail é ariosvaldo516@gmail.com
 
 <!---
 Aribsb/Aribsb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
