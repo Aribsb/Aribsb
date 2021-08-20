@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Java project...
 - 📫 How to reach me ariosvaldo516@gmail.com...
 - Olá eu sou o Ari!
-- Eu tenho interesse em trabalho em TI.
+- Eu tenho interesse em trabalho na área de Tecnologia da Informação e Cumunicação - TI.
 - Eu falo Português.
 - Eu desenvolvo em Java, PHP e Cobol. TSO, JCL.
 - Meu E-mail é ariosvaldo516@gmail.com
